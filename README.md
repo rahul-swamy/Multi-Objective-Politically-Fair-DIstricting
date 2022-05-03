@@ -1,4 +1,4 @@
-# Multi-Objective-Politically-Fair-DIstricting
+# Multi-Objective-Politically-Fair-Districting
 
 This repository contains the code, data and results pertaining to the manuscript “Multi-objective Optimization for Politically Fair Districting: A Scalable Multilevel Approach” by Rahul Swamy, Douglas M. King, and Sheldon H. Jacobson. This work is accepted at Operations Research.
 
