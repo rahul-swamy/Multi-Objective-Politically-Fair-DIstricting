@@ -2,7 +2,7 @@
 
 This repository contains the code, data and results pertaining to the manuscript “_Multi-objective Optimization for Politically Fair Districting: A Scalable Multilevel Approach_” by Rahul Swamy, Douglas M. King, and Sheldon H. Jacobson. This work is accepted at _Operations Research_.
 
-The **Datasets** folder contains the instance of Wisconsin. the root folder contains the code, and the **Results** folder contains the results such as the 3 levels of coarsened graphs, the approximate-Pareto optimal solutions for the 3 bi-objective problems solved in the paper and the most fair maps from among them.
+The **Datasets** folder contains the instance of Wisconsin. the root folder contains the code, and the **Results** folder contains the 3 levels of coarsened graphs, the approximate-Pareto optimal solutions for the 3 bi-objective problems solved in the paper and the most fair maps from among them.
 
 The **Datasets** folder contains:
 - **WI_adjacency_tracts.csv**: The adjacency list for the census tracts of Wisconsin from Census 2010.
